@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science Degree at University of Sri Lanka Institute of Information Technology.
+- 🎓 &nbsp; Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
 - ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
 
@@ -45,8 +45,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sithum-ravishka-753619211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sithum_ravishka/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-<a href="sithumravishka1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.facebook.com/people/Sithum-Ravishka/100008639329023/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
+<a href="https://www.linkedin.com/in/seshmi-senadheera-208642208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_seshmi_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
+<a href="shsenadheera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 </p>
