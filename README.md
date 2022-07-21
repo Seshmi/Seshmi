@@ -48,6 +48,10 @@
 
 <br/>
 
+[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Seshmi.dev)
+
+<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
@@ -57,3 +61,9 @@
  <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 <a href="https://twitter.com/SeshmiS"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
 </p>
+
+------
+
+Credit: [Seshmi](https://github.com/Seshmi)
+
+Last Edited on: 21/07/2022
