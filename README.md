@@ -48,7 +48,7 @@
 
 <br/>
 
-[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Seshmi.dev)
+[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi)
 
 <br/>
 
