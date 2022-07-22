@@ -75,7 +75,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
 
-## My Statistics
+<!--## My Statistics
 
 <a href="https://github.com/Seshmi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seshmi&theme=buefy&show_icons=true" />
@@ -88,7 +88,7 @@
 
 <br/>
 
-[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi)
+[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi) -->
 
 <br/>
 
