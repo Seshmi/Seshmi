@@ -79,3 +79,37 @@
 Credit: [Seshmi](https://github.com/Seshmi)
 
 Last Edited on: 21/07/2022
+
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Seshmi&theme=algolia" alt="Seshmi" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadeepZilong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Seshmi" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  
+   <a href="https://github.com/Seshmi"><img alt="Seshmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmi's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
+
+-----
+Credits: [Seshmi](https://github.com/Seshmi)
+
+Last Edited on: 22/07/2022
