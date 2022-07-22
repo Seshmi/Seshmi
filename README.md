@@ -47,40 +47,6 @@
 - <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <br/>
 
-## My Statistics
-
-<a href="https://github.com/Seshmi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seshmi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seshmi&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Seshmi&" alt="Seshmi" /></p>
-
-<br/>
-
-[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi)
-
-<br/>
-
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/seshmi-senadheera-208642208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_seshmi_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-<a href="shsenadheera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
- <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
-<a href="https://twitter.com/SeshmiS"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
-</p>
-
-------
-
-Credit: [Seshmi](https://github.com/Seshmi)
-
-Last Edited on: 21/07/2022
-
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Seshmi&theme=algolia" alt="Seshmi" /></p>
 
@@ -108,6 +74,33 @@ Last Edited on: 21/07/2022
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
+
+## My Statistics
+
+<a href="https://github.com/Seshmi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seshmi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seshmi&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Seshmi&" alt="Seshmi" /></p>
+
+<br/>
+
+[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi)
+
+<br/>
+
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/seshmi-senadheera-208642208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_seshmi_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
+<a href="shsenadheera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
+<a href="https://twitter.com/SeshmiS"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
+</p>
 
 -----
 Credits: [Seshmi](https://github.com/Seshmi)
