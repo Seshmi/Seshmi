@@ -9,7 +9,6 @@
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
