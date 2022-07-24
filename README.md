@@ -92,7 +92,7 @@
 
 <br/>
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;Connect with Me 🤝🏻 </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/seshmi-senadheera-208642208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -101,6 +101,10 @@
  <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 <a href="https://twitter.com/SeshmiS"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
 </p>
+
+</br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
 -----
 Credits: [Seshmi](https://github.com/Seshmi)
