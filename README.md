@@ -19,6 +19,8 @@
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
 - ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
 
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -111,4 +113,4 @@
 -----
 Credits: [Seshmi](https://github.com/Seshmi)
 
-Last Edited on: 23/07/2022 
+Last Edited on: 24/07/2022 
