@@ -6,7 +6,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Seshmi Senadheera</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
 </p>
 <p>I am a front-end developer, I'm a Competitive Programmer.</p>
 <!--<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
@@ -54,7 +54,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
+ <summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
