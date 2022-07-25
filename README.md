@@ -9,7 +9,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
 </p>
 <p>I am a front-end developer, I'm a Competitive Programmer.</p>
-<!--<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
+
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -77,36 +77,11 @@
 
 </br>
 
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seshmi&theme=solarized_dark">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seshmi&theme=solarized_dark&utcOffset=8">
-	
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
 
-<!--## My Statistics
 
-<a href="https://github.com/Seshmi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seshmi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seshmi&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Seshmi&" alt="Seshmi" /></p>
-
-<br/>
-
-[![Seshmis' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmis's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Seshmi) -->
-
-<br/>
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;Connect with Me 🤝🏻 </h3>
 
