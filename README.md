@@ -113,7 +113,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/seshmi-senadheera-208642208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_seshmi_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-<a href="shsenadheera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shsenadheera@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
  <a href="https://web.facebook.com/seshmi.senadheera.1998"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 <a href="https://twitter.com/SeshmiS"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
 </p>
