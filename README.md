@@ -59,7 +59,7 @@
  <summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Seshmi/github-readme-stats"><img alt="7oSeshmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seshmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Seshmi" height="192px"/>
@@ -79,7 +79,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
+<p align="center"> <a href="https://github.com/Seshmi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
