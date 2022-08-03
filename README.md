@@ -100,7 +100,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
------
+------
 Credits: [Seshmi](https://github.com/Seshmi)
 
-Last Edited on: 30/07/2022 
+Last Edited on: 04/08/2022 
