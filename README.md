@@ -69,13 +69,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   
    <a href="https://github.com/Seshmi"><img alt="Seshmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Seshmi&custom_title=Seshmi's%20Contribution%20Graph&theme=react-dark" /></a>
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-</br>
+</br> -->
 
 ## :trophy: Git profile Trophies
 
