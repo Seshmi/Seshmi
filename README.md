@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Seshmi Senadheera</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Seshmi">Seshmi Senadheera</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
