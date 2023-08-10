@@ -6,7 +6,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Seshmi">Seshmi Senadheera</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/Seshmi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
 </p>
 <p>I am a Full stack Developer, I'm a Competitive Programmer.</p>
 
@@ -17,7 +17,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
-- ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
+<!-- - ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles. -->
 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Status</b></summary>
+ <!--<summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Seshmi/github-readme-stats"><img alt="7oSeshmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -65,7 +65,26 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seshmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Seshmi" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </p> -->
+
+<summary><b>💻 GitHub Profile Status</b></summary>
+<br/>
+<!-- <p align="center">
+  <a href="https://github.com/Seshmi/github-readme-stats">
+    <img alt="7oSeshmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seshmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Seshmi" height="192px"/>
+  <br/> 
+  <b>Note:</b> The languages below are based on the repositories in my profile and do not reflect my experience or skill level.
+  <br/>
+  <h3>Languages Used in My Repositories:</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi's Top Languages"/>
+</p> -->
+
+<a href="https://github.com/Seshmi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Seshmi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Seshmi's github stats" /></a> | <a href="https://github.com/Seshmi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seshmi&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -77,9 +96,9 @@
 
 </br> -->
 
-## :trophy: Git profile Trophies
+<!-- ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/Seshmi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p>
+<p align="center"> <a href="https://github.com/Seshmi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seshmi&layout=compact&theme=algolia" alt="Seshmi" /></a> </p> -->
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
@@ -98,7 +117,7 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/Seshmi)
 
 ------
 Credits: [Seshmi](https://github.com/Seshmi)
