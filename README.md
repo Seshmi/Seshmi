@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Seshmi Senadheera.</h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Seshmi/Seshmi/master/header.png"></p>
 
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/Seshmi">Seshmi Senadheera</a>'s Profile 👋</h1>
