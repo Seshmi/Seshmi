@@ -6,7 +6,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Seshmi">Seshmi Senadheera</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/Seshmi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/Seshmi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Full+stack+developer;I'm+a+competitive+programmer" /></a>
 </p>
 <p>I am a Full stack Developer, I'm a Competitive Programmer.</p>
 
